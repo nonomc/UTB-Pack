@@ -34,13 +34,13 @@ entity {
 ####################
 
 general {
-    B:options.crafting.binder.enabled=true
-    B:options.crafting.bookstand.enabled=true
-    B:options.crafting.desk.enabled=true
-    B:options.crafting.lectern.enabled=true
-    B:options.crafting.linkbook.enabled=true
-    B:options.crafting.notebook.enabled=true
-    B:options.crafting.receptacle.enabled=true
+    B:options.crafting.binder.enabled=false
+    B:options.crafting.bookstand.enabled=false
+    B:options.crafting.desk.enabled=false
+    B:options.crafting.lectern.enabled=false
+    B:options.crafting.linkbook.enabled=false
+    B:options.crafting.notebook.enabled=false
+    B:options.crafting.receptacle.enabled=false
     S:options.difficultyoverride=
     B:options.instability=true
     I:options.providerId=5
