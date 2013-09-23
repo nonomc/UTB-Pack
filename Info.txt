@@ -1,0 +1,26 @@
+Mod Pack Name:
+Unleash The Beast
+
+Mods and permissions :
+GOOGLE DRIVE : https://docs.google.com/spreadsheet/ccc?key=0Ar4kzv6QdCqzdFl1MWdxcG4xREdpSE5VYnlGN3FTakE&usp=sharing
+HTML : https://docs.google.com/spreadsheet/ar?id=tYu1gqpn1DGiHNUbyF7qSjA.16658859095606131768.7349395444164067312&action=1&tile=0&rpert=20&srow=0&erow=92&scol=0&ecol=21&fprt=false&tfe=ve_853&gsessionid=cRPHUfi4nFM 
+
+
+Private Pack Code:
+unleashthebeast
+
+
+# The description is in french, but if you want a english one (event it's a french server) : "Official modpack for the french server Unleash The Beast !"
+Description:
+Le modpack officiel du serveur Unleash The Beast !
+
+Il est interdit d'utiliser ce modpack hors du serveur !
+
+Minecraft Version:
+1.5.2
+
+Pack Version:
+1.1.0
+
+Pack Author:
+Gabigabigo et la Team UTB
