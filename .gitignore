@@ -20,3 +20,5 @@ minecraft/openperipheral/*
 minecraft/options.txt
 minecraft/CustomDISkins/*
 minecraft/lib/*
+minecraft/lib
+minecraft/lib/
