@@ -2,6 +2,7 @@
 version
 Library/*
 minecraft/bin/*
+minecraft/lib/*
 minecraft/crash-reports/*
 minecraft/hats/*
 minecraft/miscperipherals/*
